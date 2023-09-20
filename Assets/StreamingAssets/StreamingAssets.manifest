@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 198828092
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs
+      Dependencies: {}
+    Info_1:
+      Name: uiprefab
+      Dependencies:
+        Dependency_0: prefabs

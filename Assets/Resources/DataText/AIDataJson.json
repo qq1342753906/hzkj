@@ -1,0 +1,82 @@
+[
+  {
+    "name": "e3",
+    "FroolName": "e3",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e4",
+    "FroolName": "e4",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e5",
+    "FroolName": "e5",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e6",
+    "FroolName": "e6",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e7",
+    "FroolName": "e7",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e8",
+    "FroolName": "e8",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e9",
+    "FroolName": "e9",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e10",
+    "FroolName": "e10",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "e11",
+    "FroolName": "e11",
+    "Score": 1,
+    "Level": 1,
+    "Speed": 17,
+    "Attack": 0
+  },
+  {
+    "name": "炸弹",
+    "FroolName": "炸弹",
+    "Score": -5,
+    "Level": 2,
+    "Speed": 17,
+    "Attack": 0
+  }
+]
